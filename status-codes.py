@@ -1,4 +1,4 @@
-status_codes = [
+status_code_list = [
     "Allocated",
     "Implement / Design",
     "Not operational",
